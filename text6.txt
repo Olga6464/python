@@ -1,0 +1,3 @@
+Informatics : 170 20 10
+Physics : 40 50 10
+Sports: 30 10
