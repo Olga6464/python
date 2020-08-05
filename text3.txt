@@ -1,0 +1,3 @@
+Smitt 21000
+Ivanov 40000
+Smirnoff 15000
